@@ -6,7 +6,7 @@ MUG-U is a Multimodal Large Language Model (MLLM) that supports text, image, and
 
 |            Model            |    Date    |                                           API                                            |                     Note                     |
 | :-------------------------: | :--------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------: |
-| MUG-U-7B | 2025.12.06 | [infer](./infer_api.py) |                  Qwen2.5-7B                  |
+| MUG-U-7B | 2025.02.06 | [infer](./infer_api.py) |                  Qwen2.5-7B                  |
 
 # How to Use?
 ```python
