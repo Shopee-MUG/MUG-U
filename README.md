@@ -18,15 +18,15 @@ python infer_api.py
 
 |Benchmark|MUG-U-7B|
 |:---:|:---:|
-|MMBench-V1.1<sub>test</sub>|82.2|
-|MMStar|67.2|
-|MMMU<sub>val</sub>|56.3|
-|MathVista<sub>testmini</sub>|74.6|
-|HallBench<sub>avg</sub>|50.1|
-|AI2D<sub>test</sub>|89.0|
-|OCRBench|90.5|
-|MMVet|61.2|
-|Average|71.4|
+|MMBench-V1.1<sub>test</sub>|81.8|
+|MMStar|66.6|
+|MMMU<sub>val</sub>|54.3|
+|MathVista<sub>testmini</sub>|74.8|
+|HallBench<sub>avg</sub>|51.3|
+|AI2D<sub>test</sub>|88.9|
+|OCRBench|91.1|
+|MMVet|63|
+|Average|71.5|
 
 
 
